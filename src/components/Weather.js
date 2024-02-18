@@ -22,7 +22,7 @@ function Weather() {
         "uv": 5.0,
     }
 });
-  const key= '62b6fe65e4174407ade91120241802';
+  const key= 'YOUR_API_KEY';
   const [city, setCity] = useState('Tunis');
   const [image, setImage] = useState('https://www.adorama.com/alc/wp-content/uploads/2017/11/shutterstock_114802408.jpg');
   const [searchedCities, setSearchedCities] = useState([]);
