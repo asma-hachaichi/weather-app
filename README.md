@@ -25,7 +25,7 @@ const key = "YOUR_API_KEY";
 
 Explore the intuitive interface and rich data visualizations of the dashboard. Below is a snapshot of the Weather App in action:
 
-![Weather App Interface](./img/interface.png)
+![Weather App Interface](./src/img/interface.png)
 
 ## License
 
